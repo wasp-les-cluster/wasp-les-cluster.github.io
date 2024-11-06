@@ -1,0 +1,11 @@
+- name: Amir H. Payberah
+  photo: amir.jpg
+  info: Cluster leader
+  email: payberah@kth.se
+  web: <a href="https://payberah.github.io/">Webpage</a>
+
+- name: Victor Morel
+  photo: victor.jpg
+  info: Cluster co-leader
+  email: morelv@chalmers.se
+  web: <a href="https://victor-morel.net">Webpage</a>
