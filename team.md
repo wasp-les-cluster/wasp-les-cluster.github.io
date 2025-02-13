@@ -6,7 +6,8 @@ sitemap: false
 permalink: /members/
 ---
 
-## Members
+<center><img src="/images/people.jpg" style="border-radius: 0;" width="1000" height="200" align="center"></center>
+<br>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_faculty %}
