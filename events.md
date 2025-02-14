@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-<center><img src="/images/teaching.jpg" width="1000" height="200" align="center"></center>
+<center><img src="/images/events.jpg" width="900" height="200" align="center"></center>
 
 <br>
 ## Cluster Meeting at WASP Winter Conference 2025
