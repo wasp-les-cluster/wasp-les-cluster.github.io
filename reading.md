@@ -8,7 +8,17 @@ permalink: /reading/
 <br>
 
 ## Book Club
-* The cluster organizes a monthly online book club, where we focus on reading books that explore the intersection of equity and justice in AI. You can find the schedule and the list of books [here](https://co-liberative-computing.github.io/books/).
+The cluster organizes a monthly online book club, where we focus on reading books that explore the intersection of equity and justice in AI. You can find the schedule and the list of books [here](https://co-liberative-computing.github.io/books/).
+
+* **February 28, 2025**, The Promise of Access
+* **January 31, 2025**, Resisting AI [[sumamry](https://co-liberative-computing.github.io/summary/summary_resisting_ai/)]
+* **November 29, 2024**, Design Justice [[sumamry](https://co-liberative-computing.github.io/summary/summary_design_justice/)]
+* **October 25, 2024**, The Eye of the Master [[sumamry](https://co-liberative-computing.github.io/summary/summary_the_eye_of_the_master/)]
+* **September 27, 2024**, Livig a Feminist Life [[sumamry](https://co-liberative-computing.github.io/summary/summary_living_a_feminist_life/)]
+* **August 30, 2024**, Unmasking AI [[sumamry](https://co-liberative-computing.github.io/summary/summary_unmasking_ai/)]
+* **May 31, 2024**, Data Feminism [[sumamry](https://co-liberative-computing.github.io/summary/summary_data_feminism/)]
+* **April 26, 2024**, Atlas of AI [[sumamry](https://co-liberative-computing.github.io/summary/summary_atlas_of_ai/)]
+* **March 28, 2024**, The Ethical Algorithm [[sumamry](https://co-liberative-computing.github.io/summary/summary_the_ethical_algorithm/)]
 
 <br>
 
