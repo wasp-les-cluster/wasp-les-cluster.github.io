@@ -25,4 +25,4 @@ Together with the [Co-Liberative Computing](https://co-liberative-computing.gith
 ## Paper Club
 #### **March 14, 2025**
 * Gebru, Timnit, and Émile P. Torres, "The TESCREAL Bundle: Eugenics and the Promise of Utopia Through Artificial General Intelligence", First Monday, 2024. [[link](https://firstmonday.org/ojs/index.php/fm/article/view/13636/11606)]
-* Bender, Emily M., et al., "On the Dangers of Stochastic Parrots: Can Language Models be Too Big? 🦜" ACM FAccT, 2021. [[link](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]
+* Bender, Emily M., et al., "On the Dangers of Stochastic Parrots: Can Language Models be Too Big? 🦜", ACM FAccT, 2021. [[link](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]
