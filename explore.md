@@ -27,7 +27,9 @@ permalink: /explore/
 <br>
 
 ## Past
+* Participatory AI Research & Practice Symposium - Part II (February 8, 2025) [[link](https://pairs25.notion.site/Agenda-8th-Feb-17a260e24e1a8092b9e4ebe332807534)]
 * WASP-HS Winter Conference 2025 (February 5-7, 2025) [[link](https://wasp-hs.org/event/winter-conference-2025/)]
+* Participatory AI Research & Practice Symposium - Part I (January 30, 2025) [[link](https://pairs25.notion.site/Online-Session-Participatory-AI-Research-Practice-Symposium-30th-Jan-177260e24e1a80efb319edc2dd156784)]
 * WASP Winter Conference 2025 (January 14-16, 2025) [[link](https://internal.wasp-sweden.org/wasp-winter-conference-14-16-january-2025/)]
 * WASP-HS AI for Humanity and Society 2024 (November 19-20, 2024) [[link](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/)]
 * AAAI/ACM Conference on AI, Ethics, and Society (AIES) (October 21-23, 2024) [[link](https://www.aies-conference.com/2024/)]
