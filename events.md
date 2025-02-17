@@ -12,6 +12,6 @@ permalink: /events/
   - Miriah Meyer (LiU): Feminist Data Visualization [[slides](/files/winter_school_2025/miriah_slides.pdf)]
   - Derya Agbaba (LiU): Entanglements for visualization [[slides](/files/winter_school_2025/derya_slides.pdf)]
   - Julian Mendez (Umeå): Making Fairness Actionable [[slides](/files/winter_school_2025/julian_slides.pdf)]
-  - Matthias Wagner (LTH): AI Act High-Risk Requirements Readiness: Industrial Perspectives and Case Company Insights
+  - Matthias Wagner (LTH): AI Act High-Risk Requirements Readiness: Industrial Perspectives and Case Company Insights [[slides](/files/winter_school_2025/matthias_slides.pdf)]
   - Marcus Liwicki (LTU): Ethics of GenAI - Where We Technologically Are Already
 <br>
