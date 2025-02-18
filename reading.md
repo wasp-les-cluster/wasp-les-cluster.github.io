@@ -10,7 +10,7 @@ permalink: /reading/
 ## Book Club
 Together with the [Co-Liberative Computing](https://co-liberative-computing.github.io) research group, the LES cluster organizes a monthly online book club focused on reading books that explore the intersection of equity and justice in AI. You can find the schedule and the list of books [here](https://co-liberative-computing.github.io/books/).
 
-* **February 28, 2025**, The Promise of Access
+* **February 28, 2025**, The Promise of Access [[summary](https://co-liberative-computing.github.io/summary/summary_the_promise_of_access/)]
 * **January 31, 2025**, Resisting AI [[sumamry](https://co-liberative-computing.github.io/summary/summary_resisting_ai/)]
 * **November 29, 2024**, Design Justice [[sumamry](https://co-liberative-computing.github.io/summary/summary_design_justice/)]
 * **October 25, 2024**, The Eye of the Master [[sumamry](https://co-liberative-computing.github.io/summary/summary_the_eye_of_the_master/)]
