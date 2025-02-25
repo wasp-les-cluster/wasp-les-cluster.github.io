@@ -14,7 +14,7 @@ permalink: /explore/
 * ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
 * ACM Interaction Design and Children (IDC) (June 23-26, 2025) [[link](https://idc.acm.org/2025/)]
-* WASP/WASP-HS Summer School on Resilience and Regulation (June 23-27, 2025) [tba]
+* WASP/WASP-HS Summer School on Resilience and Regulation (June 23-27, 2025) [[link](https://wasp-sweden.org/event/joint-summer-school-on-resilience-and-regulation/)]
 * European Workshop on Algorithmic Fairness (EWAF) (June 30 - July 2, 2025), [[link](https://2025.ewaf.org/home)]
 * ACM Conference on Fairness, Accountability, and Transparency (FAccT) (June 23-26, 2025) [[link](https://facctconference.org/)]
 * Aarhus Conference (August 18-22, 2025) [[link](https://aarhus2025.org/)]
