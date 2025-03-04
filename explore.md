@@ -11,6 +11,7 @@ permalink: /explore/
 * Women in Data Science (WiDS) AI & ML Sweden Conference (March 13, 2025) [[link](https://wids.confetti.events/wids2025/)]
 * Women in Information and Coding Theory Workshop (WICT) (March 13-14, 2025) [[link](https://sites.google.com/view/onurgunlu/research/activities/2025-women-in-information-and-coding-theory-workshop)]
 * Workshop: Girls Just Want to Have Sc(AI)ence - Part 1 (March 18, 2025) [[link](https://wasp-hs.org/event/girls-just-want-to-have-scaience-creating-a-research-network-to-fostering-women-participation-in-technoscience/)]
+* KTH Global Impact Days (April 1-3, 2025) [[link](https://www.kth.se/en/om/internationellt/about/impact-days?utm_medium=email&utm_source=Ungapped&utm_campaign=EECS+News%3a+pEECS+%234+2025+&)]
 * Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
 * Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
 * ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
