@@ -27,6 +27,7 @@ permalink: /explore/
 * The International Digital Labor Network (INDL) (September 10-12, 2025) [[link](https://www.indl.network/indl-8/)]
 * WASP-HS AI for Humanity and Society 2025 (October 9-10, 2025) [[link](https://wasp-hs.org/event/ai-for-humanity-and-society-2025-the-great-transformaition/)]
 * Computer-Supported Cooperative Work & Social Computing (CSCW) (October 18-22, 2025) [[link](https://cscw.acm.org/2025/)]
+* National Equal Opportunities Conference for Universities and Colleges (November 18-19, 2025) [[link](https://www.likavillkor2025.se/)]
 
 <br>
 
