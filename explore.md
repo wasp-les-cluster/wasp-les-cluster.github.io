@@ -17,6 +17,7 @@ permalink: /explore/
 * ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
 * WASP-HD/DDLS Workshop on Societal Challenges in Data-Driven Life Sciences (May 13-15, 2025) [[link](https://www.lyyti.fi/p/Sandpit_wokshop_2025/en)]
+* Nordic STS Conference, Revisiting Bildung in Science, Technology & Society (June 11-13, 2025) [[link](https://sites.google.com/dsv.su.se/revisiting-bildung-/home)]
 * ACM Interaction Design and Children (IDC) (June 23-26, 2025) [[link](https://idc.acm.org/2025/)]
 * WASP/WASP-HS Summer School on Resilience and Regulation (June 23-27, 2025) [[link](https://wasp-sweden.org/event/joint-summer-school-on-resilience-and-regulation/)]
 * European Workshop on Algorithmic Fairness (EWAF) (June 30 - July 2, 2025), [[link](https://2025.ewaf.org/home)]
@@ -27,6 +28,7 @@ permalink: /explore/
 * The International Digital Labor Network (INDL) (September 10-12, 2025) [[link](https://www.indl.network/indl-8/)]
 * WASP-HS AI for Humanity and Society 2025 (October 9-10, 2025) [[link](https://wasp-hs.org/event/ai-for-humanity-and-society-2025-the-great-transformaition/)]
 * Computer-Supported Cooperative Work & Social Computing (CSCW) (October 18-22, 2025) [[link](https://cscw.acm.org/2025/)]
+* Marx25 (October 24-25, 2025) [[link](https://www.cmsmarx.org/marx25/)]
 * National Equal Opportunities Conference for Universities and Colleges (November 18-19, 2025) [[link](https://www.likavillkor2025.se/)]
 
 <br>
