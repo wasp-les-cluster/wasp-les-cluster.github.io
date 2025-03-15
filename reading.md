@@ -10,6 +10,7 @@ permalink: /reading/
 ## Book Club
 Together with the [Co-Liberative Computing](https://co-liberative-computing.github.io) research group, the LES cluster organizes a monthly online book club focused on reading books that explore the intersection of equity and justice in AI. You can find the schedule and the list of books [here](https://co-liberative-computing.github.io/books/).
 
+* **March 28, 2025**, Teaching to Transgress
 * **February 28, 2025**, The Promise of Access [[summary](https://co-liberative-computing.github.io/summary/summary_the_promise_of_access/)]
 * **January 31, 2025**, Resisting AI [[sumamry](https://co-liberative-computing.github.io/summary/summary_resisting_ai/)]
 * **November 29, 2024**, Design Justice [[sumamry](https://co-liberative-computing.github.io/summary/summary_design_justice/)]
@@ -23,6 +24,11 @@ Together with the [Co-Liberative Computing](https://co-liberative-computing.gith
 <br>
 
 ## Journal Club
+
+#### **April 11, 2025**
+* "Why do we do this?": Moral Stress and the Affective Experience of Ethics in Practice, Sonja Rattay, Ville Vakkuri, Marco Rozendaal, Irina Shklovski, arXiv preprint arXiv:2502.18395, 2025. [[link](https://arxiv.org/pdf/2502.18395)]
+* Against Ethical AI, Donald McMillan, Barry Brown, Proceedings of the Halfway to the Future Symposium, 2019. [[link](https://dl.acm.org/doi/pdf/10.1145/3363384.3363393?casa_token=f42ww1tTjA0AAAAA:vw5RBYSXn6BGw7Bb-jIdyd237JGc77r5bjaA7ReoThH4vvuCDMIH3qabJwd0ueZFxAU9GZiTxheY6g)].
+
 #### **March 14, 2025**
-* Gebru, Timnit, and Émile P. Torres, "The TESCREAL Bundle: Eugenics and the Promise of Utopia Through Artificial General Intelligence", First Monday, 2024. [[link](https://firstmonday.org/ojs/index.php/fm/article/view/13636/11606)]
-* Bender, Emily M., et al., "On the Dangers of Stochastic Parrots: Can Language Models be Too Big? 🦜", ACM FAccT, 2021. [[link](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]
+* The TESCREAL Bundle: Eugenics and the Promise of Utopia Through Artificial General Intelligence, Timnit Gebru, and Émile P. Torres, First Monday, 2024. [[link](https://firstmonday.org/ojs/index.php/fm/article/view/13636/11606)]
+* On the Dangers of Stochastic Parrots: Can Language Models be Too Big? 🦜, Emily M. Bender et al., ACM FAccT, 2021. [[link](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]

@@ -8,8 +8,6 @@ permalink: /explore/
 <br>
 
 ## Upcoming
-* Women in Data Science (WiDS) AI & ML Sweden Conference (March 13, 2025) [[link](https://wids.confetti.events/wids2025/)]
-* Women in Information and Coding Theory Workshop (WICT) (March 13-14, 2025) [[link](https://sites.google.com/view/onurgunlu/research/activities/2025-women-in-information-and-coding-theory-workshop)]
 * Workshop: Girls Just Want to Have Sc(AI)ence - Part 1 (March 18, 2025) [[link](https://wasp-hs.org/event/girls-just-want-to-have-scaience-creating-a-research-network-to-fostering-women-participation-in-technoscience/)]
 * KTH Global Impact Days (April 1-3, 2025) [[link](https://www.kth.se/en/om/internationellt/about/impact-days?utm_medium=email&utm_source=Ungapped&utm_campaign=EECS+News%3a+pEECS+%234+2025+&)]
 * Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
@@ -34,6 +32,8 @@ permalink: /explore/
 <br>
 
 ## Past
+* Women in Information and Coding Theory Workshop (WICT) (March 13-14, 2025) [[link](https://sites.google.com/view/onurgunlu/research/activities/2025-women-in-information-and-coding-theory-workshop)]
+* Women in Data Science (WiDS) AI & ML Sweden Conference (March 13, 2025) [[link](https://wids.confetti.events/wids2025/)]
 * Participatory AI Research & Practice Symposium - Part II (February 8, 2025) [[link](https://pairs25.notion.site/Agenda-8th-Feb-17a260e24e1a8092b9e4ebe332807534)]
 * WASP-HS Winter Conference 2025 (February 5-7, 2025) [[link](https://wasp-hs.org/event/winter-conference-2025/)]
 * Participatory AI Research & Practice Symposium - Part I (January 30, 2025) [[link](https://pairs25.notion.site/Online-Session-Participatory-AI-Research-Practice-Symposium-30th-Jan-177260e24e1a80efb319edc2dd156784)]
