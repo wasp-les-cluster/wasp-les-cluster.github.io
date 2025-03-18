@@ -25,6 +25,7 @@ permalink: /explore/
 * International Conference on Information Technology for Social Good (GoodIT) (September 3-5, 2025) [[link](https://goodit2025.idlab.uantwerpen.be/)]
 * The International Digital Labor Network (INDL) (September 10-12, 2025) [[link](https://www.indl.network/indl-8/)]
 * WASP-HS AI for Humanity and Society 2025 (October 9-10, 2025) [[link](https://wasp-hs.org/event/ai-for-humanity-and-society-2025-the-great-transformaition/)]
+* Danish Society for Marxist Studies (October 10-11, 2025) [[link](https://marxistiskestudier.com/2025/03/06/call-for-abstracts-10th-annual-conference/)]
 * Computer-Supported Cooperative Work & Social Computing (CSCW) (October 18-22, 2025) [[link](https://cscw.acm.org/2025/)]
 * Marx25 (October 24-25, 2025) [[link](https://www.cmsmarx.org/marx25/)]
 * National Equal Opportunities Conference for Universities and Colleges (November 18-19, 2025) [[link](https://www.likavillkor2025.se/)]
