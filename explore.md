@@ -8,12 +8,12 @@ permalink: /explore/
 <br>
 
 ## Upcoming
-* Workshop: Girls Just Want to Have Sc(AI)ence - Part 1 (March 18, 2025) [[link](https://wasp-hs.org/event/girls-just-want-to-have-scaience-creating-a-research-network-to-fostering-women-participation-in-technoscience/)]
 * KTH Global Impact Days (April 1-3, 2025) [[link](https://www.kth.se/en/om/internationellt/about/impact-days?utm_medium=email&utm_source=Ungapped&utm_campaign=EECS+News%3a+pEECS+%234+2025+&)]
 * Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
 * Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
 * ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
+* Workshop: Girls Just Want to Have Sc(AI)ence - Part 2 (May 18, 2025) [[link](https://www.ai.lu.se/girlscAIence/2025-05-08)]
 * WASP-HD/DDLS Workshop on Societal Challenges in Data-Driven Life Sciences (May 13-15, 2025) [[link](https://www.lyyti.fi/p/Sandpit_wokshop_2025/en)]
 * Nordic STS Conference, Revisiting Bildung in Science, Technology & Society (June 11-13, 2025) [[link](https://sites.google.com/dsv.su.se/revisiting-bildung-/home)]
 * ACM Interaction Design and Children (IDC) (June 23-26, 2025) [[link](https://idc.acm.org/2025/)]
@@ -33,6 +33,7 @@ permalink: /explore/
 <br>
 
 ## Past
+* Workshop: Girls Just Want to Have Sc(AI)ence - Part 1 (March 18, 2025) [[link](https://www.ai.lu.se/girlscaience/2025-03-18)]
 * Women in Information and Coding Theory Workshop (WICT) (March 13-14, 2025) [[link](https://sites.google.com/view/onurgunlu/research/activities/2025-women-in-information-and-coding-theory-workshop)]
 * Women in Data Science (WiDS) AI & ML Sweden Conference (March 13, 2025) [[link](https://wids.confetti.events/wids2025/)]
 * Participatory AI Research & Practice Symposium - Part II (February 8, 2025) [[link](https://pairs25.notion.site/Agenda-8th-Feb-17a260e24e1a8092b9e4ebe332807534)]
