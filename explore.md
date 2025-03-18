@@ -8,6 +8,7 @@ permalink: /explore/
 <br>
 
 ## Upcoming
+* KTH PhD Impact -  Who Do We Want to Hire? Gendered Wording in Job Ads (March 27, 2025) [[link](https://intra.kth.se/en/cbh/forskarstuderande/phd-impact-1.1329387)]
 * KTH Global Impact Days (April 1-3, 2025) [[link](https://www.kth.se/en/om/internationellt/about/impact-days?utm_medium=email&utm_source=Ungapped&utm_campaign=EECS+News%3a+pEECS+%234+2025+&)]
 * Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
 * Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
