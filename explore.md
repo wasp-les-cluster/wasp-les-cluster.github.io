@@ -12,6 +12,7 @@ permalink: /explore/
 * KTH Global Impact Days (April 1-3, 2025) [[link](https://www.kth.se/en/om/internationellt/about/impact-days?utm_medium=email&utm_source=Ungapped&utm_campaign=EECS+News%3a+pEECS+%234+2025+&)]
 * Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
 * Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
+* Risks and Benefits with AI in Research - Ethical Perspectives (April 23, 2025) [[link](https://www.lu.se/evenemang/risks-and-benefits-ai-research-ethical-perspectives)]
 * ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
 * Workshop: Girls Just Want to Have Sc(AI)ence - Part 2 (May 18, 2025) [[link](https://www.ai.lu.se/girlscAIence/2025-05-08)]
