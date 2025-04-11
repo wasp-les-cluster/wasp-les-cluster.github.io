@@ -8,15 +8,14 @@ permalink: /explore/
 <br>
 
 ## Upcoming
-* KTH PhD Impact -  Who Do We Want to Hire? Gendered Wording in Job Ads (March 27, 2025) [[link](https://intra.kth.se/en/cbh/forskarstuderande/phd-impact-1.1329387)]
-* KTH Global Impact Days (April 1-3, 2025) [[link](https://www.kth.se/en/om/internationellt/about/impact-days?utm_medium=email&utm_source=Ungapped&utm_campaign=EECS+News%3a+pEECS+%234+2025+&)]
-* Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
-* Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
 * Risks and Benefits with AI in Research - Ethical Perspectives (April 23, 2025) [[link](https://www.lu.se/evenemang/risks-and-benefits-ai-research-ethical-perspectives)]
 * ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
-* Workshop: Girls Just Want to Have Sc(AI)ence - Part 2 (May 18, 2025) [[link](https://www.ai.lu.se/girlscAIence/2025-05-08)]
 * WASP-HD/DDLS Workshop on Societal Challenges in Data-Driven Life Sciences (May 13-15, 2025) [[link](https://www.lyyti.fi/p/Sandpit_wokshop_2025/en)]
+* Workshop: Girls Just Want to Have Sc(AI)ence - Part 2 (May 18, 2025) [[link](https://www.ai.lu.se/girlscAIence/2025-05-08)]
+* FemTech Summer School (May 22-23, 2025) [[link](https://www.kth.se/femtech/phd-summer-school-1.1386309)]
+* FemTech Workshop (May 26-28, 2025) [[link](https://www.kth.se/femtech/3-day-workshop-1.1389959)]
+* FemTech + Feminist Tech Exhibition [[link](https://www.kth.se/femtech/exhibition-1.1391820)]
 * Nordic STS Conference, Revisiting Bildung in Science, Technology & Society (June 11-13, 2025) [[link](https://sites.google.com/dsv.su.se/revisiting-bildung-/home)]
 * ACM Interaction Design and Children (IDC) (June 23-26, 2025) [[link](https://idc.acm.org/2025/)]
 * WASP/WASP-HS Summer School on Resilience and Regulation (June 23-27, 2025) [[link](https://wasp-sweden.org/event/joint-summer-school-on-resilience-and-regulation/)]
@@ -35,6 +34,10 @@ permalink: /explore/
 <br>
 
 ## Past
+* Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
+* Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
+* KTH Global Impact Days (April 1-3, 2025) [[link](https://www.kth.se/en/om/internationellt/about/impact-days?utm_medium=email&utm_source=Ungapped&utm_campaign=EECS+News%3a+pEECS+%234+2025+&)]
+* KTH PhD Impact -  Who Do We Want to Hire? Gendered Wording in Job Ads (March 27, 2025) [[link](https://intra.kth.se/en/cbh/forskarstuderande/phd-impact-1.1329387)]
 * Workshop: Girls Just Want to Have Sc(AI)ence - Part 1 (March 18, 2025) [[link](https://www.ai.lu.se/girlscaience/2025-03-18)]
 * Women in Information and Coding Theory Workshop (WICT) (March 13-14, 2025) [[link](https://sites.google.com/view/onurgunlu/research/activities/2025-women-in-information-and-coding-theory-workshop)]
 * Women in Data Science (WiDS) AI & ML Sweden Conference (March 13, 2025) [[link](https://wids.confetti.events/wids2025/)]
