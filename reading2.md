@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading Circle
-permalink: /reading/
+permalink: /reading2/
 ---
 <center><img src="/images/reading.png" width="1000" height="200" align="center"></center>
 
