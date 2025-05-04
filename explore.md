@@ -8,9 +8,10 @@ permalink: /explore/
 <br>
 
 ## Upcoming
-* ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
+* Women in Mathematics Stockholm (May 12, 2025) [[link](https://www.europeanwomeninmaths.org/activity/ewm-nordic-conference-2025/)]
 * WASP-HD/DDLS Workshop on Societal Challenges in Data-Driven Life Sciences (May 13-15, 2025) [[link](https://www.lyyti.fi/p/Sandpit_wokshop_2025/en)]
+* Digitalization Research for an Equal Society (May 16, 2025) [[link](https://www.digitalfutures.kth.se/event/digitalization-research-for-an-equal-society-how-do-we-ensure-that-we-work-towards-gender-equal-solutions/)]
 * Workshop: Girls Just Want to Have Sc(AI)ence - Part 2 (May 18, 2025) [[link](https://www.ai.lu.se/girlscAIence/2025-05-08)]
 * FemTech Summer School (May 22-23, 2025) [[link](https://www.kth.se/femtech/phd-summer-school-1.1386309)]
 * FemTech Workshop (May 26-28, 2025) [[link](https://www.kth.se/femtech/3-day-workshop-1.1389959)]
@@ -34,6 +35,7 @@ permalink: /explore/
 <br>
 
 ## Past
+* ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Risks and Benefits with AI in Research - Ethical Perspectives (April 23, 2025) [[link](https://www.lu.se/evenemang/risks-and-benefits-ai-research-ethical-perspectives)]
 * Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
 * Utrecht University Impact Conference (April 7-8, 2025) [[link](https://impact.dataschool.nl)]
