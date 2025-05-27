@@ -8,14 +8,9 @@ permalink: /explore/
 <br>
 
 ## Upcoming
-* Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
-* Women in Mathematics Stockholm (May 12, 2025) [[link](https://www.europeanwomeninmaths.org/activity/ewm-nordic-conference-2025/)]
-* WASP-HD/DDLS Workshop on Societal Challenges in Data-Driven Life Sciences (May 13-15, 2025) [[link](https://www.lyyti.fi/p/Sandpit_wokshop_2025/en)]
-* Digitalization Research for an Equal Society (May 16, 2025) [[link](https://www.digitalfutures.kth.se/event/digitalization-research-for-an-equal-society-how-do-we-ensure-that-we-work-towards-gender-equal-solutions/)]
-* Workshop: Girls Just Want to Have Sc(AI)ence - Part 2 (May 18, 2025) [[link](https://www.ai.lu.se/girlscAIence/2025-05-08)]
-* FemTech Summer School (May 22-23, 2025) [[link](https://www.kth.se/femtech/phd-summer-school-1.1386309)]
 * FemTech Workshop (May 26-28, 2025) [[link](https://www.kth.se/femtech/3-day-workshop-1.1389959)]
-* FemTech + Feminist Tech Exhibition [[link](https://www.kth.se/femtech/exhibition-1.1391820)]
+* FemTech + Feminist Tech Exhibition (June 4, 2025) [[link](https://www.kth.se/femtech/exhibition-1.1391820)]
+* Workshop: Girls Just Want to Have Sc(AI)ence - Part 3 (June 4, 2025) [[link](https://wasp-hs.org/event/workshop-girls-just-want-to-have-scaience-part-3/)]
 * Nordic STS Conference, Revisiting Bildung in Science, Technology & Society (June 11-13, 2025) [[link](https://sites.google.com/dsv.su.se/revisiting-bildung-/home)]
 * Ageing Well with Digital Technologies Through an Intersectionality Lens (June 18-19, 2025) [[link](https://sola.kau.se/awdtintersectionality/)]
 * ACM Interaction Design and Children (IDC) (June 23-26, 2025) [[link](https://idc.acm.org/2025/)]
@@ -28,13 +23,20 @@ permalink: /explore/
 * The International Digital Labor Network (INDL) (September 10-12, 2025) [[link](https://www.indl.network/indl-8/)]
 * WASP-HS AI for Humanity and Society 2025 (October 9-10, 2025) [[link](https://wasp-hs.org/event/ai-for-humanity-and-society-2025-the-great-transformaition/)]
 * Danish Society for Marxist Studies (October 10-11, 2025) [[link](https://marxistiskestudier.com/2025/03/06/call-for-abstracts-10th-annual-conference/)]
-* Computer-Supported Cooperative Work & Social Computing (CSCW) (October 18-22, 2025) [[link](https://cscw.acm.org/2025/)]
+* ACM Computer-Supported Cooperative Work & Social Computing (CSCW) (October 18-22, 2025) [[link](https://cscw.acm.org/2025/)]
 * Marx25 (October 24-25, 2025) [[link](https://www.cmsmarx.org/marx25/)]
+* Cooperative AI (November 11-14, 2025) [[link](https://platform.coop/events/cooperativeai/)]
 * National Equal Opportunities Conference for Universities and Colleges (November 18-19, 2025) [[link](https://www.likavillkor2025.se/)]
 
 <br>
 
 ## Past
+* FemTech Summer School (May 22-23, 2025) [[link](https://www.kth.se/femtech/phd-summer-school-1.1386309)]
+* Workshop: Girls Just Want to Have Sc(AI)ence - Part 2 (May 18, 2025) [[link](https://www.ai.lu.se/girlscAIence/2025-05-08)]
+* Digitalization Research for an Equal Society (May 16, 2025) [[link](https://www.digitalfutures.kth.se/event/digitalization-research-for-an-equal-society-how-do-we-ensure-that-we-work-towards-gender-equal-solutions/)]
+* WASP-HD/DDLS Workshop on Societal Challenges in Data-Driven Life Sciences (May 13-15, 2025) [[link](https://www.lyyti.fi/p/Sandpit_wokshop_2025/en)]
+* Women in Mathematics Stockholm (May 12, 2025) [[link](https://www.europeanwomeninmaths.org/activity/ewm-nordic-conference-2025/)]
+* Creating Sustainable Work (CSW) (May 7-9, 2025) [[link](https://ki.se/en/imm/csw2025)]
 * ACM Conference on Human Factors in Computing Systems (CHI) (April 26 - May 1, 2025) [[link](https://chi2025.acm.org/)]
 * Risks and Benefits with AI in Research - Ethical Perspectives (April 23, 2025) [[link](https://www.lu.se/evenemang/risks-and-benefits-ai-research-ethical-perspectives)]
 * Utrecht University Data Care Workshop (April 9, 2025) [[link](https://www.uu.nl/en/events/data-care-workshop-i-gender-responsive-strategies-for-equitable-ai-futures)]
